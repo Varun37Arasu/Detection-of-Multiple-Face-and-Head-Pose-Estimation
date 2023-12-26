@@ -3,3 +3,9 @@
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
+installed_packages_env.txt
+installed_packages_noenv.txt
+Error Guide.md
+Image_Downloader_Scripts/
+unsplash
+Train+Detection Minimal.ipynb
