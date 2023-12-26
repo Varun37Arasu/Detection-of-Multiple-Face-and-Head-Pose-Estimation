@@ -18,7 +18,8 @@ python -m venv tfod
 <pre>
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfodj
+python -m ipykernel install --user --name=tfod
+pip install -r requirements
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/Varun37Arasu/Detection-of-Multiple-Face-and-Head-Pose-Estimation/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
